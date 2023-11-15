@@ -18,6 +18,8 @@ body{
     font-family: Inter;
     margin: auto;
     display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .primary:hover{

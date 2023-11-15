@@ -8,5 +8,10 @@
   /* Text Color */
   --button-text: #fff;
   --hover-text: #000;
+  --text-color: white;
+
+  /* Text size */
+  --title-size: 2.5rem;
+  --text-size: 1rem;
   
 }

@@ -47,3 +47,11 @@
     color: white;
     margin: 1rem;
 }
+
+.img-text-box_szurke p {
+    text-align: left;
+    font-weight: bold;
+}
+.img-text-box h2{
+    color: black;
+}
